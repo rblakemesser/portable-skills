@@ -6,6 +6,7 @@ Current packaged skills:
 - `prompt-authoring`
 - `agents-md-authoring`
 - `skill-authoring`
+- `asset-transform-eval`
 
 Repo layout:
 - `skills/<skill-name>/...` contains each portable skill payload

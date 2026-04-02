@@ -1,0 +1,4 @@
+interface:
+  display_name: "Asset Transform Eval"
+  short_description: "Score transformed assets against a target reference"
+  default_prompt: "Use $asset-transform-eval to evaluate how closely an output asset matches a target asset after stated transform instructions, with exhaustive 1-10 line items and a composite score."
