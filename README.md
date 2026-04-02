@@ -7,6 +7,7 @@ Current packaged skills:
 - `agents-md-authoring`
 - `skill-authoring`
 - `asset-transform-eval`
+- `xai-grok`
 
 Repo layout:
 - `skills/<skill-name>/...` contains each portable skill payload

@@ -1,0 +1,4 @@
+interface:
+  display_name: "xAI Grok"
+  short_description: "Freshness-first intel with Grok + X search"
+  default_prompt: "Use $xai-grok to query Grok directly with x_search or web_search, summarize the findings, and verify anything actionable against official docs or code."
