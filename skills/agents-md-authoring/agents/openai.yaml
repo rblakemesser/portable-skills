@@ -1,0 +1,7 @@
+interface:
+  display_name: "AGENTS.md Authoring"
+  short_description: "Write and audit repo AGENTS.md files"
+  default_prompt: "Use $agents-md-authoring to write, edit, refactor, or audit an AGENTS.md for a coding project so it stays concise, command-first, and scope-aware."
+
+policy:
+  allow_implicit_invocation: false

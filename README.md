@@ -4,6 +4,7 @@ Personal portable skill repository for `rblakemesser`.
 
 Current packaged skills:
 - `prompt-authoring`
+- `agents-md-authoring`
 
 Repo layout:
 - `skills/<skill-name>/...` contains each portable skill payload
